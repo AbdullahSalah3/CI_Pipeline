@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with GitHub Actions CI Pipeline",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "bash src/test.sh",
+    "start": "node src/app.js"
+  },
+  "dependencies": {}
+}
